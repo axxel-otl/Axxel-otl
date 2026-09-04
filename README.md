@@ -1,4 +1,8 @@
 # Howdy 🌼! I'm axxel.
+
+## Stats
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/axxel-otl/banner.svg)](https://contributors.gitlab.com/users/axxel-otl)
+
 ## About me
 - I dream of a world where robots are as normal as chairs
 - I like to name my robots and my possessions (My laptop's name is promethevs)
@@ -16,9 +20,6 @@
     <img src="https://avatars.githubusercontent.com/u/5713885?s=60&v=4" /> <img src="https://skillicons.dev/icons?i=git,github,vscodium,linux,arch" />
   </a>
 </p>
-
-## Stats
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Code Languages I know (Or I'm learning)
 | Arduino | C | C++ | Java | Python |
