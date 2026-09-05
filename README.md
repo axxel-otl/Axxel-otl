@@ -11,8 +11,8 @@
 - INTP
 
 ## Important projects
-- [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
-- [My dotfiles for Linux (bedrock and arch supported)](https://github.com/Axxel-otl/InkordiousDotfiles)
+- [Sonic (Ultrasonic library)](https://gitlab.com/Axxel-otl/Sonic)
+- [My dotfiles for Linux (bedrock and arch supported)](https://gitlab.com/axxel-otl/InkordiousDotfiles)
 
 ## Tools I know (Or I'm learning)
 <p align="center">
