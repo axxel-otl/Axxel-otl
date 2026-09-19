@@ -22,11 +22,11 @@
 </p>
 
 ## Code Languages I know (Or I'm learning)
-| Arduino | C | C++ | Java | Python |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=arduino" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=python" /> |
-| 🔥 Midway | 🌱 Currently learning | 🌱 Currently learning | 🔥 Starting fast for the FRC | 🔥 Midway |
-| Some sensors and actuators | Basic printf and scanf | Basic std::cout and std::sin | Declaring a spark | Mostly nothing |
+| Arduino | C | C++ | Java | Python | Bash |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=arduino" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=bash">
+| 🌱 Currently learning | 🌱 Currently learning | 🌱 Currently learning | 🔥 Starting fast for the FRC | 🌱 Currently learning | 🔥 Basic |
+| Some sensors and actuators | Basic printf and scanf | Basic std::cout and std::sin | Declaring a spark | Mostly nothing | if-elif-else, for, variables, yq, etc |
 
 ## Languages I speak
 <p align="center">
